@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\bin\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.exe
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\bin\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.deps.json
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\bin\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.runtimeconfig.json
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\bin\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.runtimeconfig.dev.json
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\bin\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.dll
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\bin\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.pdb
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\obj\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\obj\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\obj\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.AssemblyInfo.cs
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\obj\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\obj\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.dll
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\obj\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.pdb
+C:\Users\USER\source\repos\alevli ultra seksi hesap makinesi\alevli ultra seksi hesap makinesi\obj\0.0.3\netcoreapp3.1\alevli ultra seksi hesap makinesi.genruntimeconfig.cache
