@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("alevli ultra seksi hesap makinesi")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("0.0.3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Hesap Makinesi 0.0.1")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("alevli ultra seksi hesap makinesi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("alevli ultra seksi hesap makinesi")]
+[assembly: System.Reflection.AssemblyProductAttribute("Hesap Makinesi 0.0.1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Hesap Makinesi 0.0.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

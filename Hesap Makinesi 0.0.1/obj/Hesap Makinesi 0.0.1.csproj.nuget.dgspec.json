@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\alevli ultra seksi hesap makinesi\\alevli ultra seksi hesap makinesi\\alevli ultra seksi hesap makinesi.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\alevli ultra seksi hesap makinesi\\alevli ultra seksi hesap makinesi\\alevli ultra seksi hesap makinesi.csproj": {
+    "C:\\Users\\USER\\source\\repos\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\alevli ultra seksi hesap makinesi\\alevli ultra seksi hesap makinesi\\alevli ultra seksi hesap makinesi.csproj",
-        "projectName": "alevli ultra seksi hesap makinesi",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\alevli ultra seksi hesap makinesi\\alevli ultra seksi hesap makinesi\\alevli ultra seksi hesap makinesi.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1.csproj",
+        "projectName": "Hesap Makinesi 0.0.1",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\alevli ultra seksi hesap makinesi\\alevli ultra seksi hesap makinesi\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

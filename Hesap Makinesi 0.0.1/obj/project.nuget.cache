@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+aDOy6BPQ60NKx/D1B7afzG4eDREug5/+d4Fsqh43r3xOZoRFylUFeyjN8cEw64jVPTOLYZgAtKLMH6TKa/PCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1\\Hesap Makinesi 0.0.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

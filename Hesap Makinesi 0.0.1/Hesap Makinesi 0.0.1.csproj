@@ -3,8 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>alevli_ultra_seksi_hesap_makinesi</RootNamespace>
-    <Configurations>Debug;Release;0.0.3</Configurations>
+    <RootNamespace>Hesap_Makinesi_0._0._1</RootNamespace>
   </PropertyGroup>
 
 </Project>
